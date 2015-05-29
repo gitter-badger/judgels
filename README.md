@@ -1,5 +1,7 @@
 # Judgment Angels (judgels)
 
+[![Join the chat at https://gitter.im/ia-toki/judgels](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ia-toki/judgels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction
 Judgels is full stack distributed system for programming education purposes.
 Judgels consists of several applications which provide certain functions and services:
